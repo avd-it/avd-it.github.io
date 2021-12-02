@@ -27,7 +27,6 @@ Deze *schuin*
 HIerna wil ik stukje code (bijv. PowerShell) toevogen
 
 ```powershell
-$id = "a.vandijk2@cjib.nl"
 $mbx= Get-Mailbox -$id
 ```
 
