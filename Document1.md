@@ -17,6 +17,7 @@ Deze tekst is weer in normale opmaak
 > [!CAUTION]
 > Negative potential consequences of an action
 
+
 > [!WARNING]
 > Dangerous certain consequences of an action
 
@@ -34,12 +35,6 @@ Hieronder ga ik een zogenoemde 'code snippet' plaatsen
 
 :::code language="powershell" source="snippet1.ps1":::
 
-
 :::code language="powershell" source="Code/Add-Teams.ps1":::
 
 :::code language="ps" source="Code/Add-Teams.ps1":::
-
-
-
-
-
